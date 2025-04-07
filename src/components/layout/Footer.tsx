@@ -1,5 +1,5 @@
 
-import { Facebook, Twitter, LinkedIn, Instagram } from 'lucide-react';
+import { Facebook, Twitter, Linkedin, Instagram } from 'lucide-react';
 
 const navigation = {
   solutions: [
@@ -23,7 +23,7 @@ const navigation = {
   social: [
     { name: 'Facebook', icon: Facebook, href: '#' },
     { name: 'Twitter', icon: Twitter, href: '#' },
-    { name: 'LinkedIn', icon: LinkedIn, href: '#' },
+    { name: 'LinkedIn', icon: Linkedin, href: '#' },
     { name: 'Instagram', icon: Instagram, href: '#' },
   ],
 };
